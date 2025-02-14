@@ -101,7 +101,7 @@ export default function Valentine() {
 
                 {/* Котик */}
                 <img
-                    src={!showMessage ? '/valentine-for-beloved/cat.gif' : '/valentine-for-beloved/VeC.gif'}
+                    src={!showMessage ? '/cat.gif' : '/VeC.gif'}
                     alt="Милый котик"
                     className="valentine-gif"
                     width={120}
